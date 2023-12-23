@@ -1,6 +1,10 @@
 # Unsupervised-Image-Denoising-
 UNSUPERVISED IMAGE DENOISING USING DEEP LEARNING ( MONTE CARLO SURE )
 
+1) Bhanu Prakash Thipparthi (BT2365)
+2) Vishnu Vardhan Naidu Yasarapu ( VY2069) 
+
+
 Please find the [Model](https://drive.google.com/file/d/1knEKTv7j2zxrxNanuRElHmu1-hmNk6ui/view?usp=drive_link) for the model .
 
 
